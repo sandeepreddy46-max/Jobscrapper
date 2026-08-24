@@ -1,13 +1,15 @@
 # Construction Entry-Level Jobs — August 24, 2026
 > US construction/civil roles; rejects explicit required minimum experience above 2 years.
 
-## Batch 2026-08-24 19:47 — 5 new jobs
+## Batch 2026-08-24 21:08 — 7 new jobs
 
 | Company | Location | Role | Apply | Posted |
 |---|---|---|---|---|
-| **Clark Group, McLean, Va.** | McLean, VA | Civil Estimator | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/McLean-VA/Civil-Estimator_R5012427) | Posted Today |
-| **Clark Group, McLean, Va.** | San Francisco, CA | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/San-Francisco-CA/Project-Engineer_R5022206) | Posted Today |
-| **Clark Group, McLean, Va.** | Boardman, OR | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Boardman-OR/Project-Engineer_R5018328) | Posted Today |
-| **Clark Group, McLean, Va.** | Los Angeles, CA | Project Scheduler | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Los-Angeles-CA/Project-Scheduler_R5023469) | Posted Today |
-| **Johnson Controls** | Ashburn-Virginia-United States of America | Field Project Coordinator | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Ashburn-Virginia-United-States-of-America/Field-Project-Coordinator_WD30277359) | Posted Today |
+| **Clark Group, McLean, Va.** | Lorton, VA | Assistant Superintendent (Water/Wastewater) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Lorton-VA/Assistant-Superintendent--Water-Wastewater-_R5021649) | Posted Today |
+| **Clark Group, McLean, Va.** | Reno, NV | Project Scheduler | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Reno-NV/Project-Scheduler_R5020883) | Posted Today |
+| **Clark Group, McLean, Va.** | San Francisco, CA | VDC Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/San-Francisco-CA/VDC-Engineer_R5023743) | Posted Today |
+| **Holder Construction Group, Atlanta, Ga.** | Herndon, VA | Preconstruction - Engineer | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4380997009) | 2026-08-24T16:18:42-04:00 |
+| **Holder Construction Group, Atlanta, Ga.** | Denver, CO | Preconstruction - Engineer | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4182922009) | 2026-08-24T16:32:25-04:00 |
+| **Holder Construction Group, Atlanta, Ga.** | Phoenix, AZ | Preconstruction - Engineer | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4182926009) | 2026-08-24T16:31:11-04:00 |
+| **SOLV Energy, San Diego, Calif.** | Princeville, IL | Assistant Superintendent (Cornwell, IL) | [Apply](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/Princeville-IL/Assistant-Superintendent--San-Antonio--TX-_J13485) | Posted Today |
 
