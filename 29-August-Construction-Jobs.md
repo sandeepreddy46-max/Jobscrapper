@@ -7,3 +7,4 @@
 |---|---|---|---|---|
 | **Novartis** | Morrisville, North Carolina, US | Quality Control Specialist II | [Apply](https://www.novartis.com/careers/career-search/job/details/req-10085045-quality-control-specialist-ii) | 2026-08-28 |
 
+
