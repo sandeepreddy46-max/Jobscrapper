@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — August 31, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-08-31 18:10:21
+
+📊 **2 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 1 job
+- T5 Construction, Atlanta, Ga.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **HITT Contracting, Falls Church, Va.** | Houston, TX | Virtual Construction - On - Site - BIM Coordinator & Engineer | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Houston-TX/Virtual-Construction---On---Site---BIM-Coordinator---Engineer_JR102759) | Posted 4 Days Ago |
+| **T5 Construction, Atlanta, Ga.** | Chicago, IL | Assistant Project Manager | [Apply](https://jobs.lever.co/t5datacenters/de4a362a-2187-4830-84f8-764edc64bfad) | 2026-08-31 |
+
+---
+
 ### 🕐 Batch at 2026-08-31 17:09:52
 
 📊 **1 new construction jobs this batch:**
