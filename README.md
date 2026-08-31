@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — August 31, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-08-31 17:09:52
+
+📊 **1 new construction jobs this batch:**
+- Swinerton Inc., Concord, Calif.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Swinerton Inc., Concord, Calif.** | Atlanta GA | Assistant Superintendent | [Apply](https://swinerton.wd1.myworkdayjobs.com/en-US/Swinerton_External_Career/job/Atlanta-GA/Assistant-Superintendent_J17910) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-08-31 16:10:11
 
 📊 **1 new construction jobs this batch:**
