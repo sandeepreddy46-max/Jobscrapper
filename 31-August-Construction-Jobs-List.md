@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — August 31, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-08-31 19:10:06
+
+📊 **1 new construction jobs this batch:**
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2 | [Apply](https://jobs.jedunn.com/job/Charlotte-Project-Engineer-2-NC-28217/1425023600/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-08-31 18:10:21
 
 📊 **2 new construction jobs this batch:**
