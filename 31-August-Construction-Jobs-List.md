@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — August 31, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-08-31 16:10:11
+
+📊 **1 new construction jobs this batch:**
+- Gilbane Building Co., Providence, R.I.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Field Engineer II | [Apply](https://careers-gilbaneco.icims.com/jobs/13278/field-engineer-ii/job?in_iframe=1) | 2024-08-31T16:08:53.594Z |
+
+---
+
 ### 🕐 Batch at 2026-08-31 15:09:58
 
 📊 **1 new construction jobs this batch:**
