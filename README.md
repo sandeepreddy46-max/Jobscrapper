@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 01, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-01 14:15:43
+
+📊 **2 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+- Kokosing Group of Cos., Westerville, Ohio†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Louisa, VA; Richmond, VA | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Richmond-VA/Project-Engineer_R5023096) | Posted Today |
+| **Kokosing Group of Cos., Westerville, Ohio†** | Baltimore, MD | Project Engineer | [Apply](https://kokosing.wd5.myworkdayjobs.com/en-US/Kokosing_External_Career_Site/job/Baltimore-MD/Project-Engineer_R-102256-1) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-01 12:19:43
 
 📊 **1 new construction jobs this batch:**
