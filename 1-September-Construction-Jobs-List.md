@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 01, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-01 15:14:55
+
+📊 **1 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **HITT Contracting, Falls Church, Va.** | Houston, TX | Quality Control Associate | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Houston-TX/Quality-Control-Associate_JR102780) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-01 14:15:43
 
 📊 **2 new construction jobs this batch:**
