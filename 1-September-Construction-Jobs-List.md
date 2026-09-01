@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 01, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-01 19:14:16
+
+📊 **2 new construction jobs this batch:**
+- Clune Construction, Chicago, Ill.: 1 job
+- Regeneron: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clune Construction, Chicago, Ill.** | Los Angeles, CA | Assistant Project Manager | [Apply](https://clunegc.wd12.myworkdayjobs.com/en-US/CluneGC/job/Los-Angeles-CA/Assistant-Project-Manager_JR101262) | Posted Today |
+| **Regeneron** | Rensselaer, New York, United States of America | Quality Control Analyst (Microbiology) | [Apply](https://careers.regeneron.com/en/jobs/r50200/quality-control-analyst-microbiology/) | 2026-09-01 |
+
+---
+
 ### 🕐 Batch at 2026-09-01 18:18:05
 
 📊 **1 new construction jobs this batch:**
