@@ -1,6 +1,18 @@
 # 🏗️ Construction Entry-Level Jobs — September 01, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-01 17:15:08
+
+📊 **2 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | McLean, VA | Project Controls Analyst (Winter 2026/Spring 2027 Graduates) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/McLean-VA/Project-Controls-Analyst--Winter-2026-Spring-2027-Graduates-_R5024638-1) | Posted Today |
+| **Clark Group, McLean, Va.** | McLean, VA | Summer Associate - Project Controls (Summer 2027) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/McLean-VA/Summer-Associate---Project-Controls--Summer-2027-_R5024640-1) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-01 16:42:03
 
 📊 **3 new construction jobs this batch:**
