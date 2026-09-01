@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 01, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-01 23:13:08
+
+📊 **1 new construction jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Northrop Grumman** | United States-Utah-Roy | Sentinel Structural Engineer - *16675 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Structural-Engineer----16675_R10216695) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-01 22:14:17
 
 📊 **1 new construction jobs this batch:**
