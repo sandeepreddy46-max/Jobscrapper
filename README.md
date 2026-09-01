@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 01, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-01 21:15:07
+
+📊 **2 new construction jobs this batch:**
+- Swinerton Inc., Concord, Calif.: 1 job
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Swinerton Inc., Concord, Calif.** | Los Angeles CA | Project Engineer - K-14 (DSA) | [Apply](https://swinerton.wd1.myworkdayjobs.com/en-US/Swinerton_External_Career/job/Los-Angeles-CA/Project-Engineer---K-14--DSA-_J17918) | Posted Today |
+| **The Weitz Co., Des Moines, Iowa†** | Houston, Texas | Project Engineer II - Industrial (Traveling) | [Apply](https://careers.weitz.com/job/houston/project-engineer-ii-industrial-traveling/48937/100004641008) | 2026-9-1 |
+
+---
+
 ### 🕐 Batch at 2026-09-01 19:14:16
 
 📊 **2 new construction jobs this batch:**
