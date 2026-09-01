@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — September 01, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-01 16:42:03
+
+📊 **3 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+- The Christman Co., Lansing, Mich.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Reno, NV | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Reno-NV/Project-Engineer_R5023711) | Posted Today |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 1 | [Apply](https://jobs.jedunn.com/job/Charlotte-Project-Engineer-1-NC-28217/1425439600/) | Unknown |
+| **The Christman Co., Lansing, Mich.** | Lansing, MI | Field Engineer | [Apply](https://christmanco.wd108.myworkdayjobs.com/en-US/careers/job/Lansing-MI/Field-Engineer_R-100672) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-01 15:14:55
 
 📊 **1 new construction jobs this batch:**
