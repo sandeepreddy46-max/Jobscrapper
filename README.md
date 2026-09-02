@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 02, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-02 22:15:00
+
+📊 **2 new construction jobs this batch:**
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Project Coordinator | [Apply](https://careers-gilbaneco.icims.com/jobs/13311/project-coordinator/job?in_iframe=1) | 2024-09-02T22:13:52.812Z |
+| **SpaceX** | Starbase, TX | Environmental Health & Safety Engineer (Construction Safety) | [Apply](https://boards.greenhouse.io/spacex/jobs/8779722002?gh_jid=8779722002) | 2026-09-02T17:40:40-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-02 21:14:28
 
 📊 **2 new construction jobs this batch:**
