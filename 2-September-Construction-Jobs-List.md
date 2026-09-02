@@ -1,6 +1,18 @@
 # 🏗️ Construction Entry-Level Jobs — September 02, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-02 21:14:28
+
+📊 **2 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | San Francisco, CA; Oakland, CA | Project Engineer (Civil) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/San-Francisco-CA/Project-Engineer--Civil-_R5021540-1) | Posted Today |
+| **Clark Group, McLean, Va.** | San Francisco, CA | Safety Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/San-Francisco-CA/Safety-Engineer_R5023852) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-02 20:15:30
 
 📊 **3 new construction jobs this batch:**
