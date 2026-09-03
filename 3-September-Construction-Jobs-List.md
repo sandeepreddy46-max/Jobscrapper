@@ -1,6 +1,18 @@
 # 🏗️ Construction Entry-Level Jobs — September 03, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-03 12:20:39
+
+📊 **2 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Bethesda, MD | Field Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Bethesda-MD/Field-Engineer_R5024686) | Posted Today |
+| **Clark Group, McLean, Va.** | Houston, TX | Field Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Houston-TX/Field-Engineer_R5019685) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-03 08:17:28
 
 📊 **3 new construction jobs this batch:**
