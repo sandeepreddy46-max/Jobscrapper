@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — September 03, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-03 18:18:02
+
+📊 **3 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 1 job
+- SOLV Energy, San Diego, Calif.: 1 job
+- Skanska USA, New York, N.Y.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **HITT Contracting, Falls Church, Va.** | Columbus, OH | Commercial Construction Assistant Project Manager - GovCloud | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Columbus-OH/Commercial-Construction-Assistant-Project-Manager---GovCloud_JR102798) | Posted Today |
+| **Skanska USA, New York, N.Y.†** | Washington DC | 2027 Project Engineer | [Apply](https://careers-skanska.icims.com/jobs/9242/login) | 2026-09-03T17:14:00+0000 |
+| **SOLV Energy, San Diego, Calif.** | Holbrook, AZ | Energy Storage Project Engineer (Holbrook, AZ) | [Apply](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/Holbrook-AZ/BESS-Senior-Project-Engineer--Holbrook--AZ-_J13625) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-03 14:16:33
 
 📊 **1 new construction jobs this batch:**
