@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 03, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-03 08:17:28
+
+📊 **3 new construction jobs this batch:**
+- JE Dunn Construction Co., Kansas City, Mo.: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Estimating Engineer 2/Junior Estimator | [Apply](https://jobs.jedunn.com/job/Houston-Estimating-Engineer-2Junior-Estimator-TX-77057/1406276700/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2 | [Apply](https://jobs.jedunn.com/job/Minneapolis-Project-Engineer-2-MN-55401/1406389300/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2, Advanced Industries | [Apply](https://jobs.jedunn.com/job/Hillsboro-Project-Engineer-2%2C-Advanced-Industries-OR-97124/1416272500/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-03 05:29:08
 
 📊 **2 new construction jobs this batch:**
