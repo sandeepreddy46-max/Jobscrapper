@@ -1,6 +1,22 @@
 # 🏗️ Construction Entry-Level Jobs — September 03, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-03 19:14:04
+
+📊 **6 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 6 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Dallas, TX | Estimator | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Dallas-TX/Estimator_R5022534) | Posted Today |
+| **Clark Group, McLean, Va.** | Dallas, TX; Haskell, TX | Field Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Haskell-TX/Field-Engineer_R5023699) | Posted Today |
+| **Clark Group, McLean, Va.** | Abilene, TX; Dallas, TX | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Abilene-TX/Project-Engineer_R5022310) | Posted Today |
+| **Clark Group, McLean, Va.** | Dallas, TX; Haskell, TX | Project Engineer, Scheduling | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Dallas-TX/Project-Engineer--Scheduling_R5023698) | Posted Today |
+| **Clark Group, McLean, Va.** | Dallas, TX; Haskell, TX | Quality Control Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Haskell-TX/Quality-Control-Project-Engineer_R5022531) | Posted Today |
+| **Clark Group, McLean, Va.** | Haskell, TX | Safety Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Haskell-TX/Safety-Engineer_R5024693) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-03 18:18:02
 
 📊 **3 new construction jobs this batch:**
