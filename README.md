@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 04, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-04 13:15:05
+
+📊 **1 new construction jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Northrop Grumman** | United States-Florida-Melbourne | Staff Mission Planning Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Mission-Planning-Engineer_R10249455) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-04 07:15:28
 
 📊 **3 new construction jobs this batch:**
