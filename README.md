@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 08, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-08 21:14:22
+
+📊 **1 new construction jobs this batch:**
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **The Weitz Co., Des Moines, Iowa†** | Council Hill, Oklahoma | Construction Project Safety Engineer (Traveling) | [Apply](https://careers.weitz.com/job/council-hill/construction-project-safety-engineer-traveling/48937/100358986432) | 2026-9-8 |
+
+---
+
 ### 🕐 Batch at 2026-09-08 20:15:51
 
 📊 **4 new construction jobs this batch:**
