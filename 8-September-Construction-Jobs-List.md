@@ -1,6 +1,18 @@
 # 🏗️ Construction Entry-Level Jobs — September 08, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-08 17:16:11
+
+📊 **2 new construction jobs this batch:**
+- Holder Construction Group, Atlanta, Ga.: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Holder Construction Group, Atlanta, Ga.** | Lancaster, TX | Assistant Field Engineer (Hourly) | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4201977009) | 2026-09-08T12:45:55-04:00 |
+| **Holder Construction Group, Atlanta, Ga.** | Lancaster, TX | Assistant Field Engineer (Hourly) | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4398005009) | 2026-09-08T12:54:22-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-08 16:17:44
 
 📊 **1 new construction jobs this batch:**
