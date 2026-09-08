@@ -1,6 +1,18 @@
 # 🏗️ Construction Entry-Level Jobs — September 08, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-08 18:18:34
+
+📊 **2 new construction jobs this batch:**
+- JE Dunn Construction Co., Kansas City, Mo.: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Scheduler 1 | [Apply](https://jobs.jedunn.com/job/Beaverton-Scheduler-1-OR-97008/1427625900/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Scheduler 1, MC | [Apply](https://jobs.jedunn.com/job/Tempe-Scheduler-1%2C-MC-AZ-85281/1427621700/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-08 17:16:11
 
 📊 **2 new construction jobs this batch:**
