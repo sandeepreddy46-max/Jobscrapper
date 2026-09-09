@@ -1,6 +1,29 @@
 # 🏗️ Construction Entry-Level Jobs — September 09, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-09 20:16:16
+
+📊 **13 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 13 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **HITT Contracting, Falls Church, Va.** | Falls Church, VA | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Falls-Church-VA/Commercial-Construction-Project-Engineer--2027_JR102822-1) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Atlanta, GA | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Atlanta-GA/Commercial-Construction-Project-Engineer--2027_JR102823) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Austin, TX | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Austin-TX/Commercial-Construction-Project-Engineer--2027_JR102824) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Charleston, SC | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Charleston-SC/Commercial-Construction-Project-Engineer--2027_JR102826-1) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Dallas, TX | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Dallas-TX/Commercial-Construction-Project-Engineer--2027_JR102827) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Fort Lauderdale, FL | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Fort-Lauderdale-FL/Commercial-Construction-Project-Engineer--2027_JR102828) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Houston, TX | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Houston-TX/Commercial-Construction-Project-Engineer--2027_JR102829) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Los Angeles, CA | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Los-Angeles-CA/Commercial-Construction-Project-Engineer--2027_JR102830) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | New York, NY | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/New-York-NY/Commercial-Construction-Project-Engineer--2027_JR102831) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Raleigh, NC | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Raleigh-NC/Commercial-Construction-Project-Engineer--2027_JR102832) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Richmond, VA | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Richmond-VA/Commercial-Construction-Project-Engineer--2027_JR102833) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Santa Clara, CA | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Santa-Clara-CA/Commercial-Construction-Project-Engineer--2027_JR102834) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Seattle, WA | Commercial Construction Project Engineer- 2027 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Seattle-WA/Commercial-Construction-Project-Engineer--2027_JR102835-1) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-09 19:14:51
 
 📊 **2 new construction jobs this batch:**
