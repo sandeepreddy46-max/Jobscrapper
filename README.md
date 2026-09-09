@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 09, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-09 19:14:51
+
+📊 **2 new construction jobs this batch:**
+- Johnson Controls: 1 job
+- Regeneron: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Johnson Controls** | Folsom-California-United States of America | Data Center Scheduler & Dispatcher | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Folsom-California-United-States-of-America/Data-Center-Scheduler---Dispatcher_WD30271547) | Posted Today |
+| **Regeneron** | East Greenbush, New York, United States of America | Associate Quality Control  Analyst | [Apply](https://careers.regeneron.com/en/jobs/r48415/associate-quality-control-analyst/) | 2026-09-09 |
+
+---
+
 ### 🕐 Batch at 2026-09-09 18:19:16
 
 📊 **2 new construction jobs this batch:**
