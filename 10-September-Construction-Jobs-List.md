@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — September 10, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-10 19:17:06
+
+📊 **4 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 3 jobs
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **HITT Contracting, Falls Church, Va.** | Culpeper, VA | Commercial Construction Assistant Project Manager - GovCloud | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Culpeper-VA/Commercial-Construction-Assistant-Project-Manager---GovCloud_JR102841) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Culpeper, VA | Commercial Construction Assistant Superintendent - GovCloud | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Culpeper-VA/Commercial-Construction-Assistant-Superintendent---GovCloud_JR102838) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Columbus, OH | Commercial Construction Assistant Superintendent - Mission Critical | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Columbus-OH/Commercial-Construction-Assistant-Superintendent---Mission-Critical_JR102842) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | Mission and Quality Assurance Engineer (Quality Engineer) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Mission-and-Quality-Assurance-Engineer--Quality-Engineer-_R10250349) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-10 18:18:05
 
 📊 **2 new construction jobs this batch:**
