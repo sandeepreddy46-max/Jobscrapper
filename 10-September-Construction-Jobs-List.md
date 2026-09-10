@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 10, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-10 18:18:05
+
+📊 **2 new construction jobs this batch:**
+- L3Harris Technologies: 1 job
+- Sundt Construction Inc., Tempe, Ariz.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **L3Harris Technologies** | Greenville, TX, US | Lead, Project Engineer | [Apply](https://careers.l3harris.com/en/job/greenville/lead-project-engineer/4832/100443672320) | 2026-9-10 |
+| **Sundt Construction Inc., Tempe, Ariz.** | Morrilton, AR, United States | Project Controls Coordinator | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11176/?utm_medium=jobshare) | 2026-09-10 |
+
+---
+
 ### 🕐 Batch at 2026-09-10 17:15:31
 
 📊 **1 new construction jobs this batch:**
