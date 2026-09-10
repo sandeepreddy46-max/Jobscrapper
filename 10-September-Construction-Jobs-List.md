@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 10, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-10 21:14:44
+
+📊 **2 new construction jobs this batch:**
+- Clayco, Chicago, Ill.: 1 job
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clayco, Chicago, Ill.** | St. Louis, MO, United States | VDC Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/5j9r7q7jfpurg5g9zarbwp1gow) | 2026-09-10T20:31:51Z |
+| **The Weitz Co., Des Moines, Iowa†** | Port Washington, Wisconsin | Assistant Project Manager - Data Center Construction | [Apply](https://careers.weitz.com/job/port-washington/assistant-project-manager-data-center-construction/48937/100450756752) | 2026-9-10 |
+
+---
+
 ### 🕐 Batch at 2026-09-10 20:14:57
 
 📊 **5 new construction jobs this batch:**
