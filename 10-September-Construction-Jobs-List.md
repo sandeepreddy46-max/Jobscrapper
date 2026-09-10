@@ -1,6 +1,20 @@
 # 🏗️ Construction Entry-Level Jobs — September 10, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-10 08:17:21
+
+📊 **4 new construction jobs this batch:**
+- JE Dunn Construction Co., Kansas City, Mo.: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 1 - Denver & Colorado Springs | [Apply](https://jobs.jedunn.com/job/Denver-Project-Engineer-1-Denver-&-Colorado-Springs-CO-80222/1418832400/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 1 - Phoenix | [Apply](https://jobs.jedunn.com/job/Tempe-Project-Engineer-1-Phoenix-AZ-85281/1418834900/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 1 - Portland | [Apply](https://jobs.jedunn.com/job/Beaverton-Project-Engineer-1-Portland-OR-97008/1418835200/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2 | [Apply](https://jobs.jedunn.com/job/Austin-Project-Engineer-2-TX-78704/1408879900/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-10 07:17:11
 
 📊 **1 new construction jobs this batch:**
