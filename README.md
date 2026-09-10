@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 10, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-10 15:15:35
+
+📊 **2 new construction jobs this batch:**
+- Skanska USA, New York, N.Y.†: 1 job
+- The Whiting-Turner Contracting Co., Baltimore, Md.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Skanska USA, New York, N.Y.†** | Seattle, WA | Field Engineer I (Heavy Civil Construction) | [Apply](https://careers-skanska.icims.com/jobs/8873/login) | 2026-09-10T14:33:00+0000 |
+| **The Whiting-Turner Contracting Co., Baltimore, Md.** | s will result in a longer vetting process. The Whiting-Turner Contracting Company is an Equal Opportunity Employer, in | Assistant Superintendent | [Apply](https://jobs.silkroad.com/WhitingTurner/Careers/jobs/4319?embedded=true) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-10 12:19:15
 
 📊 **1 new construction jobs this batch:**
