@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 10, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-10 16:16:01
+
+📊 **1 new construction jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Northrop Grumman** | United States-California-Woodland Hills | Thermal Structural Engineer Level 4 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Thermal-Structural-Engineer-Level-4--AHT-_R10241565) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-10 15:15:35
 
 📊 **2 new construction jobs this batch:**
