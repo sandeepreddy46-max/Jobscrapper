@@ -1,6 +1,24 @@
 # 🏗️ Construction Entry-Level Jobs — September 10, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-10 20:14:57
+
+📊 **5 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+- Clayco, Chicago, Ill.: 2 jobs
+- HITT Contracting, Falls Church, Va.: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | McLean, VA | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/McLean-VA/Project-Engineer_R5024266) | Posted Today |
+| **Clayco, Chicago, Ill.** | Cheyenne, WY, United States | VDC Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/t45g9udj6bbe5e8kc4rbn3oy9r) | 2026-09-10T20:09:50Z |
+| **Clayco, Chicago, Ill.** | Los Angeles, CA, United States | VDC Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/6898dxmquy8zsg36z1agy8179h) | 2026-09-10T20:04:04Z |
+| **HITT Contracting, Falls Church, Va.** | Falls Church, VA | Commercial Construction Assistant Superintendent - Mission Critical | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Falls-Church-VA/Commercial-Construction-Assistant-Superintendent---Mission-Critical_JR102843-1) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | Construction Engineer 2 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Construction-Engineer-2_R10250393) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-10 19:17:06
 
 📊 **4 new construction jobs this batch:**
