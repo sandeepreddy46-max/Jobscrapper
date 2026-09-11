@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 11, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-11 21:14:43
+
+📊 **1 new construction jobs this batch:**
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **The Weitz Co., Des Moines, Iowa†** | Cedar Rapids, Iowa | Construction Project Coordinator | [Apply](https://careers.weitz.com/job/cedar-rapids/construction-project-coordinator/48937/100500287712) | 2026-9-11 |
+
+---
+
 ### 🕐 Batch at 2026-09-11 19:14:32
 
 📊 **2 new construction jobs this batch:**
