@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 11, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-11 22:15:22
+
+📊 **1 new construction jobs this batch:**
+- PCL Construction Enterprises Inc., Denver, Colo.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | Bellevue, Wa | Field Engineer - New Grad 2027 | [Apply](https://careers.pcl.com/job/Bellevue-Field-Engineer-New-Grad-2027-WA-98004/1429266000/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-11 21:14:43
 
 📊 **1 new construction jobs this batch:**
