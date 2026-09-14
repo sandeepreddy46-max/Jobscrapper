@@ -1,6 +1,23 @@
 # 🏗️ Construction Entry-Level Jobs — September 14, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-14 21:14:56
+
+📊 **5 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 2 jobs
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- PCL Construction Enterprises Inc., Denver, Colo.†: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Reno, NV | Safety Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Reno-NV/Safety-Engineer_R5024809) | Posted Today |
+| **Clark Group, McLean, Va.** | Reno, NV | VDC Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Reno-NV/VDC-Project-Engineer_R5024808) | Posted Today |
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Project Coordinator | [Apply](https://careers-gilbaneco.icims.com/jobs/13404/project-coordinator/job?in_iframe=1) | 2024-09-14T21:13:40.772Z |
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | Texas, Ut | Field Engineer | [Apply](https://careers.pcl.com/job/Field-Engineer-TX/1429855700/) | Unknown |
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | Texas, Ut | Project Engineer | [Apply](https://careers.pcl.com/job/Project-Engineer-TX/1429855500/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-14 20:16:17
 
 📊 **1 new construction jobs this batch:**
