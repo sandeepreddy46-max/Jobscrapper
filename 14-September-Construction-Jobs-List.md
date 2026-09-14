@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 14, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-14 17:14:07
+
+📊 **2 new construction jobs this batch:**
+- FedEx: 1 job
+- Sundt Construction Inc., Tempe, Ariz.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **FedEx** | Nashville, TN, US | Assoc - Project Engineer | [Apply](https://careers.fedex.com/assoc-project-engineer/job/P25-372734-1) | 2026-09-14T16:42:38.627872+00:00 |
+| **Sundt Construction Inc., Tempe, Ariz.** | Patagonia, AZ, United States | Project Engineer I - Electrical | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11198/?utm_medium=jobshare) | 2026-09-14 |
+
+---
+
 ### 🕐 Batch at 2026-09-14 16:16:04
 
 📊 **2 new construction jobs this batch:**
