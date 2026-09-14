@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — September 14, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-14 18:17:14
+
+📊 **3 new construction jobs this batch:**
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- Northrop Grumman: 1 job
+- Swinerton Inc., Concord, Calif.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Project Coordinator | [Apply](https://careers-gilbaneco.icims.com/jobs/13400/project-coordinator/job?in_iframe=1) | 2024-09-14T18:15:59.084Z |
+| **Northrop Grumman** | United States-Utah-Roy | Sentinel - Reliability Availability Maintainability Cost Engineer (Level 2/3) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Reliability-Availability-Maintainability-Cost-Engineer--Level-2-3-_R10250336) | Posted Today |
+| **Swinerton Inc., Concord, Calif.** | Austin TX | Assistant Superintendent | [Apply](https://swinerton.wd1.myworkdayjobs.com/en-US/Swinerton_External_Career/job/Austin-TX/Assistant-Superintendent_J17976) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-14 17:14:07
 
 📊 **2 new construction jobs this batch:**
