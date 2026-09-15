@@ -1,6 +1,22 @@
 # 🏗️ Construction Entry-Level Jobs — September 15, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-15 18:48:13
+
+📊 **4 new construction jobs this batch:**
+- Holder Construction Group, Atlanta, Ga.: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 2 jobs
+- PCL Construction Enterprises Inc., Denver, Colo.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Holder Construction Group, Atlanta, Ga.** | Manasses, VA | Assistant Field Engineer (Hourly) | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4406827009) | 2026-09-15T11:58:56-04:00 |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Estimating Engineer 2 | [Apply](https://jobs.jedunn.com/job/Kansas-City-Estimating-Engineer-2-MO-64106/1430254900/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2 | [Apply](https://jobs.jedunn.com/job/Tulsa-Project-Engineer-2-OK-74101/1430242600/) | Unknown |
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | Bellevue, Wa | Field Engineer | [Apply](https://careers.pcl.com/job/Bellevue-Field-Engineer-WA-98004/1430193400/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-15 14:44:29
 
 📊 **6 new construction jobs this batch:**
