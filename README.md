@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 15, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-15 22:00:26
+
+📊 **2 new construction jobs this batch:**
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Field Engineer II | [Apply](https://careers-gilbaneco.icims.com/jobs/13408/field-engineer-ii/job?in_iframe=1) | 2024-09-15T21:59:10.582Z |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 1 | [Apply](https://jobs.jedunn.com/job/Minneapolis-Project-Engineer-1-MN-55401/1430319600/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-15 18:48:13
 
 📊 **4 new construction jobs this batch:**
