@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — September 16, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-16 19:28:26
+
+📊 **3 new construction jobs this batch:**
+- General Motors: 1 job
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **General Motors** | Buffalo, New York, United States of America | Manufacturing/Project Engineer – Gen 6 Engine Assembly | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Buffalo-New-York-United-States-of-America/Manufacturing-Project-Engineer---Gen-6-Engine-Assembly_JR-202619918) | Posted Today |
+| **Gilbane Building Co., Providence, R.I.†** | N/A | VDC Engineer I | [Apply](https://careers-gilbaneco.icims.com/jobs/13414/vdc-engineer-i/job?in_iframe=1) | 2024-09-16T19:27:07.308Z |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 1 | [Apply](https://jobs.jedunn.com/job/Atlanta-Project-Engineer-1-GA-30339/1430721800/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-16 15:27:35
 
 📊 **2 new construction jobs this batch:**
