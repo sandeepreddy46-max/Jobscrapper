@@ -1,6 +1,18 @@
 # 🏗️ Construction Entry-Level Jobs — September 16, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-16 15:27:35
+
+📊 **2 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **HITT Contracting, Falls Church, Va.** | Berwick, PA | Commercial Construction Assistant Project Manager - Mission Critical | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Berwick-PA/Commercial-Construction-Assistant-Project-Manager---Mission-Critical_JR102870) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Berwick, PA | Commercial Construction Assistant Superintendent - Mission Critical | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Berwick-PA/Commercial-Construction-Assistant-Superintendent---Mission-Critical_JR102872) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-16 11:03:05
 
 📊 **1 new construction jobs this batch:**
