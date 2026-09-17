@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — September 17, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-17 21:18:52
+
+📊 **4 new construction jobs this batch:**
+- Johnson & Johnson: 1 job
+- PCL Construction Enterprises Inc., Denver, Colo.†: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Johnson & Johnson** | San Lorenzo, Puerto Rico, United States of America | Quality Engineering | [Apply](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Quality-Engineering_R-100072-1) | Posted Today |
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | Camden, Oh | Field Engineer | [Apply](https://careers.pcl.com/job/Camden-Field-Engineer-OH/1431220600/) | Unknown |
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | Phoenix, Ar | Field Engineer - Phoenix Buildings | [Apply](https://careers.pcl.com/job/Phoenix-Field-Engineer-Phoenix-Buildings-AZ-85001/1431279500/) | Unknown |
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | Phoenix, Ar | Project Engineer - Phoenix Buildings | [Apply](https://careers.pcl.com/job/Phoenix-Project-Engineer-Phoenix-Buildings-AZ-85001/1431283700/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-17 18:02:16
 
 📊 **4 new construction jobs this batch:**
