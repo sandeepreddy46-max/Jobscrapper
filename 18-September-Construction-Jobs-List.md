@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 18, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-18 18:09:51
+
+📊 **1 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Dallas, TX; Haskell, TX | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Haskell-TX/Project-Engineer_R5024872) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-18 14:13:35
 
 📊 **1 new construction jobs this batch:**
