@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — September 21, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-21 20:53:45
+
+📊 **1 new construction jobs this batch:**
+- General Motors: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **General Motors** | Warren, Michigan, United States of America | Cost Engineer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Cost-Engineer_JR-202620764) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-21 16:22:24
 
 📊 **5 new construction jobs this batch:**
