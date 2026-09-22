@@ -1,6 +1,22 @@
 # 🏗️ Construction Entry-Level Jobs — September 22, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-22 21:53:42
+
+📊 **4 new construction jobs this batch:**
+- Clayco, Chicago, Ill.: 1 job
+- HITT Contracting, Falls Church, Va.: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clayco, Chicago, Ill.** | Birmingham, AL, United States | SEI - Project Engineer - Electrical Systems | [Apply](https://jobs.crelate.com/portal/clayco/job/4fit8xbbeggre6zobmwkhjoy8o) | 2026-09-22T21:25:07Z |
+| **HITT Contracting, Falls Church, Va.** | Seattle, WA | MEP Assistant Superintendent | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Seattle-WA/MEP-Assistant-Superintendent_JR102894) | Posted Today |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Aptitude Project Engineer 2- Low Voltage | [Apply](https://jobs.jedunn.com/aptitude/job/Austin-Aptitude-Project-Engineer-2-Low-Voltage-TX-78704/1432682600/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 1, Mission Critical | [Apply](https://jobs.jedunn.com/job/Kansas-City-Project-Engineer-1%2C-Mission-Critical-MO-64106/1432749500/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-09-22 18:37:59
 
 📊 **5 new construction jobs this batch:**
