@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 22, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-22 14:28:57
+
+📊 **2 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 1 job
+- SOLV Energy, San Diego, Calif.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **HITT Contracting, Falls Church, Va.** | Columbus, OH | Commercial Construction Assistant Project Manager - GovCloud | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Columbus-OH/Commercial-Construction-Assistant-Project-Manager---GovCloud_JR102890) | Posted Today |
+| **SOLV Energy, San Diego, Calif.** | Childress, TX | EPC Project Engineer (Childress, TX) | [Apply](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/Childress-TX/EPC-Project-Engineer--Childress--TX-_J13954-1) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-22 03:50:40
 
 📊 **3 new construction jobs this batch:**
