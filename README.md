@@ -1,6 +1,26 @@
 # 🏗️ Construction Entry-Level Jobs — September 23, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-23 22:49:21
+
+📊 **6 new construction jobs this batch:**
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 2 jobs
+- SOLV Energy, San Diego, Calif.: 1 job
+- Samsung Electronics: 1 job
+- Sundt Construction Inc., Tempe, Ariz.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Field Engineer II | [Apply](https://careers-gilbaneco.icims.com/jobs/13468/field-engineer-ii/job?in_iframe=1) | 2024-09-23T22:48:15.710Z |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Coordinator | [Apply](https://jobs.jedunn.com/job/Fort-Collins-Project-Coordinator-CO-80525/1433223600/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2, Mission Critical | [Apply](https://jobs.jedunn.com/job/Bowling-Green-Project-Engineer-2%2C-Mission-Critical-OH/1433164100/) | Unknown |
+| **Samsung Electronics** | Austin, TX | Project Engineer,  Infra Electrical | [Apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Project-Engineer---Infra-Electrical_R119360?locations=e2e963279736101307c7218e23e80000&locations=189767dd6c92012d02b6bc83a529e178&locations=9679a39fc7361030509d856e0bf70000&locations=189767dd6c9201c7ec227985a529067b) | 2026-09-24 |
+| **SOLV Energy, San Diego, Calif.** | Flagstaff, AZ | EPC Assistant Superintendent (Flagstaff, AZ) | [Apply](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/Flagstaff-AZ/EPC-Assistant-Superintendent--Flagstaff--AZ-_J13939) | Posted Today |
+| **Sundt Construction Inc., Tempe, Ariz.** | Phoenix, AZ, United States | VDC Engineer 2 | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11329/?utm_medium=jobshare) | 2026-09-23 |
+
+---
+
 ### 🕐 Batch at 2026-09-23 19:37:00
 
 📊 **6 new construction jobs this batch:**
