@@ -1,6 +1,26 @@
 # 🏗️ Construction Entry-Level Jobs — September 23, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-23 19:37:00
+
+📊 **6 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 2 jobs
+- HITT Contracting, Falls Church, Va.: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+- PCL Construction Enterprises Inc., Denver, Colo.†: 1 job
+- Regeneron: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Reno, NV | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Reno-NV/Project-Engineer_R5024959) | Posted Today |
+| **Clark Group, McLean, Va.** | Charleston, SC | Safety Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Charleston-SC/Safety-Engineer_R5021194) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Houston, TX | Commercial Construction Assistant Project Manager | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Houston-TX/Commercial-Construction-Assistant-Project-Manager_JR102877) | Posted Today |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Estimating Engineer, AFG | [Apply](https://jobs.jedunn.com/job/Kansas-City-Estimating-Engineer%2C-AFG-MO-64106/1433106500/) | Unknown |
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | Bellevue, Wa | Project Engineer | [Apply](https://careers.pcl.com/job/Bellevue-Project-Engineer-WA-98004/1433022100/) | Unknown |
+| **Regeneron** | Rensselaer, New York, United States of America | Supervisor Quality Control | [Apply](https://careers.regeneron.com/en/jobs/r49639/supervisor-quality-control/) | 2026-09-22 |
+
+---
+
 ### 🕐 Batch at 2026-09-23 15:27:51
 
 📊 **1 new construction jobs this batch:**
