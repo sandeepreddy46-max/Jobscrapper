@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — September 24, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-24 22:06:23
+
+📊 **4 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 3 jobs
+- Sundt Construction Inc., Tempe, Ariz.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Oak Ridge, TN | Assistant Superintendent | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Oak-Ridge-TN/Assistant-Superintendent_R5020774) | Posted Today |
+| **Clark Group, McLean, Va.** | Greenville, SC | Assistant Superintendent (Advanced Manufacturing) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Greenville-SC/Assistant-Superintendent_R5022622) | Posted Today |
+| **Clark Group, McLean, Va.** | Charleston, SC | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Charleston-SC/Project-Engineer_R5024971) | Posted Today |
+| **Sundt Construction Inc., Tempe, Ariz.** | Phoenix, AZ, United States | Project Engineer - Advanced Facilities | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11351/?utm_medium=jobshare) | 2026-09-24 |
+
+---
+
 ### 🕐 Batch at 2026-09-24 18:20:27
 
 📊 **3 new construction jobs this batch:**
