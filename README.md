@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 24, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-24 13:23:33
+
+📊 **2 new construction jobs this batch:**
+- SOLV Energy, San Diego, Calif.: 1 job
+- Skanska USA, New York, N.Y.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Skanska USA, New York, N.Y.†** | N/A | Field Engineer | [Apply](https://careers-skanska.icims.com/jobs/9327/login) | 2026-09-24T13:13:00+0000 |
+| **SOLV Energy, San Diego, Calif.** | Yerington, NV | Quality Project Engineer (Temp-to-Hire) | [Apply](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/Yerington-NV/Quality-Project-Engineer--Temp-to-Hire-_J13299) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-24 07:23:41
 
 📊 **2 new construction jobs this batch:**
