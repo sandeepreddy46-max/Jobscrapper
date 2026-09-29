@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — September 29, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-09-29 23:33:45
+
+📊 **2 new construction jobs this batch:**
+- McGough, Roseville, Minn.: 1 job
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **McGough, Roseville, Minn.** | ND Bismarck | VDC Assistant Project Manager | [Apply](https://mcgough.wd504.myworkdayjobs.com/en-US/McGoughGlobalCareers/job/ND-Bismarck/VDC-Assistant-Project-Manager_R-980190) | Posted Today |
+| **The Weitz Co., Des Moines, Iowa†** | Denver, CO, US | Field Engineer - Telluride, CO (Traveling) | [Apply](https://careers.weitz.com/job/denver/field-engineer-telluride-co-traveling/48937/101325014336) | 2026-9-29 |
+
+---
+
 ### 🕐 Batch at 2026-09-29 19:53:15
 
 📊 **11 new construction jobs this batch:**
