@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — October 01, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-01 21:39:41
+
+📊 **3 new construction jobs this batch:**
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+- McGough, Roseville, Minn.: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Coordinator | [Apply](https://jobs.jedunn.com/job/Kansas-City-Project-Coordinator-MO-64106/1435992300/) | Unknown |
+| **McGough, Roseville, Minn.** | MN Roseville | Industrial Assistant Project Manager | [Apply](https://mcgough.wd504.myworkdayjobs.com/en-US/McGoughGlobalCareers/job/MN-Roseville/Industrial-Assistant-Project-Manager_JR9) | Posted Today |
+| **SpaceX** | Starbase, TX | Civil Engineer, Starbase Development (Residential) | [Apply](https://boards.greenhouse.io/spacex/jobs/8854013002?gh_jid=8854013002) | 2026-10-01T13:29:31-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-01 16:08:24
 
 📊 **4 new construction jobs this batch:**
