@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — October 02, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-02 20:29:04
+
+📊 **2 new construction jobs this batch:**
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- Sundt Construction Inc., Tempe, Ariz.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Project Coordinator | [Apply](https://careers-gilbaneco.icims.com/jobs/13513/project-coordinator/job?in_iframe=1) | 2024-10-02T20:27:28.954Z |
+| **Sundt Construction Inc., Tempe, Ariz.** | Tucson, AZ, United States | Project Engineer I - Heavy Industrial & Mining Division | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11436/?utm_medium=jobshare) | 2026-10-02 |
+
+---
+
 ### 🕐 Batch at 2026-10-02 15:31:40
 
 📊 **3 new construction jobs this batch:**
