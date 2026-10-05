@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — October 05, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-05 18:05:45
+
+📊 **4 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 3 jobs
+- CoreWeave: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | McLean, VA | Assistant Superintendent | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/McLean-VA/Assistant-Superintendent_R5025097) | Posted Today |
+| **Clark Group, McLean, Va.** | Jacksonville, FL | Assistant Superintendent | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Jacksonville-FL/Assistant-Superintendent_R5025084) | Posted Today |
+| **Clark Group, McLean, Va.** | Louisa, VA | Project Controls Analyst | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Louisa-VA/Project-Controls-Analyst_R5021985) | Posted Today |
+| **CoreWeave** | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA / Dallas, TX | Staff Product Quality Engineer | [Apply](https://coreweave.com/careers/job?4677000006&board=coreweave&gh_jid=4677000006) | 2026-10-05T13:29:56-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-05 08:35:36
 
 📊 **3 new construction jobs this batch:**
