@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — October 06, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-06 14:52:33
+
+📊 **1 new construction jobs this batch:**
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **The Weitz Co., Des Moines, Iowa†** | La Vista, NE, US | Project Engineer - Industrial Construction (Traveling) | [Apply](https://careers.weitz.com/job/la-vista/project-engineer-industrial-construction-traveling/48937/101612057792) | 2026-10-6 |
+
+---
+
 ### 🕐 Batch at 2026-10-06 00:40:57
 
 📊 **3 new construction jobs this batch:**
