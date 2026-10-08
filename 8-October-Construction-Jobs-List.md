@@ -1,6 +1,25 @@
 # 🏗️ Construction Entry-Level Jobs — October 08, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-08 15:21:34
+
+📊 **6 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 3 jobs
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+- JLL: 1 job
+- Skanska USA, New York, N.Y.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Houston, TX | Project Scheduler | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Houston-TX/Project-Scheduler_R5022977) | Posted Today |
+| **Clark Group, McLean, Va.** | Dallas, TX; Haskell, TX | Project Scheduler (Mission Critical) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Dallas-TX/Project-Scheduler--Mission-Critical-_R5025174) | Posted Today |
+| **Clark Group, McLean, Va.** | Charleston, SC | Quality Control Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Charleston-SC/Quality-Control-Project-Engineer_R5025173) | Posted Today |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer, Advanced Industries | [Apply](https://jobs.jedunn.com/job/Hillsboro-Project-Engineer%2C-Advanced-Industries-OR-97124/1438245100/) | Unknown |
+| **JLL** | Fairburn, GA | Project Coordinator | [Apply](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Fairburn-GA/Project-Coordinator_REQ540850) | Posted Today |
+| **Skanska USA, New York, N.Y.†** | Fort Myers, FL | Field Engineer | [Apply](https://careers-skanska.icims.com/jobs/9458/login) | 2026-10-08T13:40:00+0000 |
+
+---
+
 ### 🕐 Batch at 2026-10-08 00:49:15
 
 📊 **5 new construction jobs this batch:**
