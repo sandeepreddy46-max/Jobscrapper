@@ -1,6 +1,30 @@
 # 🏗️ Construction Entry-Level Jobs — October 08, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-08 21:08:10
+
+📊 **9 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 3 jobs
+- Clune Construction, Chicago, Ill.: 2 jobs
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+- KLA Corporation: 1 job
+- Northrop Grumman: 1 job
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Blacksburg, SC | Assistant Superintendent (Advanced Manufacturing) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Blacksburg-SC/Assistant-Superintendent_R5022622) | Posted Today |
+| **Clark Group, McLean, Va.** | Blacksburg, SC | Project Engineer (Advanced Manufacturing) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Blacksburg-SC/Project-Engineer_R5022412) | Posted Today |
+| **Clark Group, McLean, Va.** | Houston, TX | Project Scheduler | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Houston-TX/Project-Scheduler_R5025184) | Posted Today |
+| **Clune Construction, Chicago, Ill.** | Austin, TX | Assistant Superintendent - Mission Critical | [Apply](https://clunegc.wd12.myworkdayjobs.com/en-US/CluneGC/job/Austin-TX/Assistant-Superintendent---Mission-Critical_JR101429) | Posted Today |
+| **Clune Construction, Chicago, Ill.** | Dallas, TX | Assistant Superintendent - Mission Critical | [Apply](https://clunegc.wd12.myworkdayjobs.com/en-US/CluneGC/job/Dallas-TX/Assistant-Superintendent---Mission-Critical_JR101423) | Posted Today |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 1 | [Apply](https://jobs.jedunn.com/job/Kansas-City-Project-Engineer-1-MO-64106/1438387500/) | Unknown |
+| **KLA Corporation** | Milpitas, CA | Project Controls Engineer | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Project-Controls-Engineer_2641467) | Posted Today |
+| **Northrop Grumman** | United States-Utah-Corinne | Structural Engineer - 2 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Structural-Engineer---2_R10255273) | Posted Today |
+| **The Weitz Co., Des Moines, Iowa†** | Beaumont, TX, US | Field Engineer - Industrial Construction (Traveling) | [Apply](https://careers.weitz.com/job/beaumont/field-engineer-industrial-construction-traveling/48937/101711274208) | 2026-10-08 |
+
+---
+
 ### 🕐 Batch at 2026-10-08 15:21:34
 
 📊 **6 new construction jobs this batch:**
