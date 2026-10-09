@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — October 09, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-09 20:39:41
+
+📊 **2 new construction jobs this batch:**
+- Clune Construction, Chicago, Ill.: 1 job
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clune Construction, Chicago, Ill.** | San Francisco, CA | Project Scheduler | [Apply](https://clunegc.wd12.myworkdayjobs.com/en-US/CluneGC/job/San-Francisco-CA/Project-Scheduler_JR101443) | Posted Today |
+| **The Weitz Co., Des Moines, Iowa†** | Tucson, AZ, US | Project Engineer II - (Data Center) - Traveling | [Apply](https://careers.weitz.com/job/tucson/project-engineer-ii-data-center-traveling/48937/101753804896) | 2026-10-09 |
+
+---
+
 ### 🕐 Batch at 2026-10-09 15:56:19
 
 📊 **7 new construction jobs this batch:**
