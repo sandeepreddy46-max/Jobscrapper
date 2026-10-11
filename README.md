@@ -1,14 +1,14 @@
-# 🏗️ Construction Entry-Level Jobs — October 10, 2026
+# 🏗️ Construction Entry-Level Jobs — October 11, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-10-10 22:19:05
+### 🕐 Batch at 2026-10-11 15:25:50
 
 📊 **1 new construction jobs this batch:**
-- Clark Group, McLean, Va.: 1 job
+- The Weitz Co., Des Moines, Iowa†: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **Clark Group, McLean, Va.** | Richmond, VA | Assistant Superintendent (Advanced Manufacturing) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Richmond-VA/Assistant-Superintendent--Advanced-Manufacturing-_R5025209) | Posted Today |
+| **The Weitz Co., Des Moines, Iowa†** | San Marcos, TX, US | Quality Control Inspector - Data Center Construction | [Apply](https://careers.weitz.com/job/san-marcos/quality-control-inspector-data-center-construction/48937/101282558144) | 2026-09-28 |
 
 ---
 
