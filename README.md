@@ -1,25 +1,16 @@
-# 🏗️ Construction Entry-Level Jobs — October 11, 2026
+# 🏗️ Construction Entry-Level Jobs — October 12, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-10-11 20:01:31
+### 🕐 Batch at 2026-10-12 21:39:20
 
-📊 **1 new construction jobs this batch:**
-- Clark Group, McLean, Va.: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **Clark Group, McLean, Va.** | Houston, TX; Oak Ridge, TN; McLean, VA | Project Engineer (Advanced Manufacturing) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Houston-TX/Project-Engineer--Advanced-Manufacturing-_R5025213) | Posted Today |
-
----
-
-### 🕐 Batch at 2026-10-11 15:25:50
-
-📊 **1 new construction jobs this batch:**
-- The Weitz Co., Des Moines, Iowa†: 1 job
+📊 **2 new construction jobs this batch:**
+- Adolfson & Peterson Construction, Minneapolis, Minn.†: 1 job
+- Sundt Construction Inc., Tempe, Ariz.: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **The Weitz Co., Des Moines, Iowa†** | San Marcos, TX, US | Quality Control Inspector - Data Center Construction | [Apply](https://careers.weitz.com/job/san-marcos/quality-control-inspector-data-center-construction/48937/101282558144) | 2026-09-28 |
+| **Adolfson & Peterson Construction, Minneapolis, Minn.†** | Aurora, CO | Project / Field Engineer | [Apply](https://ap.wd12.myworkdayjobs.com/en-US/AP_Careers/job/Aurora-CO/Project---Field-Engineer_JR100139-1) | Posted Today |
+| **Sundt Construction Inc., Tempe, Ariz.** | Austin, TX, United States | Preconstruction Project Admin Assistant | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11501/?utm_medium=jobshare) | 2026-10-12 |
 
 ---
 
