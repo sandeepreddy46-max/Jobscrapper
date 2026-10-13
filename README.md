@@ -1,16 +1,15 @@
-# 🏗️ Construction Entry-Level Jobs — October 12, 2026
+# 🏗️ Construction Entry-Level Jobs — October 13, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-10-12 21:39:20
+### 🕐 Batch at 2026-10-13 02:55:24
 
 📊 **2 new construction jobs this batch:**
-- Adolfson & Peterson Construction, Minneapolis, Minn.†: 1 job
-- Sundt Construction Inc., Tempe, Ariz.: 1 job
+- SOLV Energy, San Diego, Calif.: 2 jobs
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **Adolfson & Peterson Construction, Minneapolis, Minn.†** | Aurora, CO | Project / Field Engineer | [Apply](https://ap.wd12.myworkdayjobs.com/en-US/AP_Careers/job/Aurora-CO/Project---Field-Engineer_JR100139-1) | Posted Today |
-| **Sundt Construction Inc., Tempe, Ariz.** | Austin, TX, United States | Preconstruction Project Admin Assistant | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11501/?utm_medium=jobshare) | 2026-10-12 |
+| **SOLV Energy, San Diego, Calif.** | Los Banos, CA | Energy Storage Project Engineer (Los Banos, CA) | [Apply](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/Los-Banos-CA/Energy-Storage-Project-Engineer--Los-Banos--CA-_J14006) | Posted Today |
+| **SOLV Energy, San Diego, Calif.** | Wenden, AZ | Energy Storage Project Engineer (Wenden, AZ) | [Apply](https://solvenergy.wd1.myworkdayjobs.com/en-US/SOLV_External_Career/job/Wenden-AZ/Energy-Storage-Project-Engineer--Wenden--AZ-_J14007) | Posted Today |
 
 ---
 
