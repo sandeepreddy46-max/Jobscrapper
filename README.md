@@ -1,6 +1,24 @@
 # 🏗️ Construction Entry-Level Jobs — October 13, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-13 22:40:47
+
+📊 **5 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 2 jobs
+- Johnson Controls: 1 job
+- MasTec Inc., Coral Gables, Fla.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **HITT Contracting, Falls Church, Va.** | Santa Clara, CA | Commercial Construction Project Engineer- 2026 | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Santa-Clara-CA/Commercial-Construction-Project-Engineer--2026_JR102967) | Posted Today |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Coordinator | [Apply](https://jobs.jedunn.com/job/Denver-Project-Coordinator-CO-80222/1439677700/) | Unknown |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2 | [Apply](https://jobs.jedunn.com/job/Charlotte-Project-Engineer-2-NC-28217/1439761800/) | Unknown |
+| **Johnson Controls** | Des Moines-Iowa-United States of America | Project Coordinator 2 | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Des-Moines-Iowa-United-States-of-America/Project-Coordinator-2_WD30282392) | Posted Today |
+| **MasTec Inc., Coral Gables, Fla.†** | ATP Texas | DOD SkillBridge - Field Engineer I, II & III - Solar & BESS | [Apply](https://careers-mastec.icims.com/jobs/70447/login) | 2026-10-13T20:04:00+0000 |
+
+---
+
 ### 🕐 Batch at 2026-10-13 18:03:41
 
 📊 **6 new construction jobs this batch:**
