@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — October 15, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-15 22:02:23
+
+📊 **1 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Dallas, TX; Oklahoma City, OK | Safety Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Dallas-TX/Safety-Engineer_R5024693) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-15 18:07:48
 
 📊 **4 new construction jobs this batch:**
