@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — October 16, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-16 15:27:23
+
+📊 **3 new construction jobs this batch:**
+- Holder Construction Group, Atlanta, Ga.: 1 job
+- Johnson Controls: 1 job
+- Regeneron: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Holder Construction Group, Atlanta, Ga.** | Shippingport, PA | Field Coordinator - Night Shift | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4425867009) | 2026-10-16T09:24:31-04:00 |
+| **Johnson Controls** | San Antonio-Texas-United States of America | Quality Engineer - Weekend Shift | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Quality-Engineer---Weekend-Shift_WD30282839) | Posted Today |
+| **Regeneron** | East Greenbush, New York, United States of America | Quality Control Data Reviewer | [Apply](https://careers.regeneron.com/en/jobs/r48360/quality-control-data-reviewer/) | 2026-10-15 |
+
+---
+
 ### 🕐 Batch at 2026-10-16 10:57:59
 
 📊 **1 new construction jobs this batch:**
