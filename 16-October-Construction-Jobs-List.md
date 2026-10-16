@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — October 16, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-16 22:45:16
+
+📊 **3 new construction jobs this batch:**
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+- Johnson Controls: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Field Engineer II | [Apply](https://careers-gilbaneco.icims.com/jobs/13637/field-engineer-ii/job?in_iframe=1) | 2024-10-16T22:39:37.242Z |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2, Industrial & Manufacturing | [Apply](https://jobs.jedunn.com/job/Brownsville-Project-Engineer-2%2C-Industrial-&-Manufacturing-TX-78520/1441047700/) | Unknown |
+| **Johnson Controls** | Al Quoz-Dubai-United Arab Emirates | Project Engineer | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Al-Quoz-Dubai-United-Arab-Emirates/Project-Engineer_WD30279686) | Posted 12 Days Ago |
+
+---
+
 ### 🕐 Batch at 2026-10-16 19:29:21
 
 📊 **2 new construction jobs this batch:**
