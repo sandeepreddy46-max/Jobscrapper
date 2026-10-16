@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — October 16, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-16 19:29:21
+
+📊 **2 new construction jobs this batch:**
+- Regeneron: 1 job
+- Sundt Construction Inc., Tempe, Ariz.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Regeneron** | East Greenbush, New York, United States of America | Associate Quality Control Analyst (Virology) | [Apply](https://careers.regeneron.com/en/jobs/r49638/associate-quality-control-analyst-virology/) | 2026-10-15 |
+| **Sundt Construction Inc., Tempe, Ariz.** | Lockhart, TX, United States | Field Coordinator (MEP) | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11578/?utm_medium=jobshare) | 2026-10-16 |
+
+---
+
 ### 🕐 Batch at 2026-10-16 15:27:23
 
 📊 **3 new construction jobs this batch:**
