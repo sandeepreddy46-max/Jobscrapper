@@ -1,70 +1,14 @@
-# 🏗️ Construction Entry-Level Jobs — October 16, 2026
+# 🏗️ Construction Entry-Level Jobs — October 17, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-10-16 22:45:16
-
-📊 **3 new construction jobs this batch:**
-- Gilbane Building Co., Providence, R.I.†: 1 job
-- JE Dunn Construction Co., Kansas City, Mo.: 1 job
-- Johnson Controls: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **Gilbane Building Co., Providence, R.I.†** | N/A | Field Engineer II | [Apply](https://careers-gilbaneco.icims.com/jobs/13637/field-engineer-ii/job?in_iframe=1) | 2024-10-16T22:39:37.242Z |
-| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2, Industrial & Manufacturing | [Apply](https://jobs.jedunn.com/job/Brownsville-Project-Engineer-2%2C-Industrial-&-Manufacturing-TX-78520/1441047700/) | Unknown |
-| **Johnson Controls** | Al Quoz-Dubai-United Arab Emirates | Project Engineer | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Al-Quoz-Dubai-United-Arab-Emirates/Project-Engineer_WD30279686) | Posted 12 Days Ago |
-
----
-
-### 🕐 Batch at 2026-10-16 19:29:21
-
-📊 **2 new construction jobs this batch:**
-- Regeneron: 1 job
-- Sundt Construction Inc., Tempe, Ariz.: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **Regeneron** | East Greenbush, New York, United States of America | Associate Quality Control Analyst (Virology) | [Apply](https://careers.regeneron.com/en/jobs/r49638/associate-quality-control-analyst-virology/) | 2026-10-15 |
-| **Sundt Construction Inc., Tempe, Ariz.** | Lockhart, TX, United States | Field Coordinator (MEP) | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11578/?utm_medium=jobshare) | 2026-10-16 |
-
----
-
-### 🕐 Batch at 2026-10-16 15:27:23
-
-📊 **3 new construction jobs this batch:**
-- Holder Construction Group, Atlanta, Ga.: 1 job
-- Johnson Controls: 1 job
-- Regeneron: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **Holder Construction Group, Atlanta, Ga.** | Shippingport, PA | Field Coordinator - Night Shift | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4425867009) | 2026-10-16T09:24:31-04:00 |
-| **Johnson Controls** | San Antonio-Texas-United States of America | Quality Engineer - Weekend Shift | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/San-Antonio-Texas-United-States-of-America/Quality-Engineer---Weekend-Shift_WD30282839) | Posted Today |
-| **Regeneron** | East Greenbush, New York, United States of America | Quality Control Data Reviewer | [Apply](https://careers.regeneron.com/en/jobs/r48360/quality-control-data-reviewer/) | 2026-10-15 |
-
----
-
-### 🕐 Batch at 2026-10-16 10:57:59
+### 🕐 Batch at 2026-10-17 06:43:23
 
 📊 **1 new construction jobs this batch:**
-- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+- PCL Construction Enterprises Inc., Denver, Colo.†: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Coordinator- Construction | [Apply](https://jobs.jedunn.com/job/Savannah-Project-Coordinator-Construction-GA-31401/1431247300/) | Unknown |
-
----
-
-### 🕐 Batch at 2026-10-16 00:19:21
-
-📊 **2 new construction jobs this batch:**
-- Clark Group, McLean, Va.: 1 job
-- JLL: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **Clark Group, McLean, Va.** | San Diego, CA | Project Scheduler | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/San-Diego-CA/Project-Scheduler_R5025266) | Posted Today |
-| **JLL** | Hopkinton, MA | Assistant Project Manager | [Apply](https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Hopkinton-MA/Assistant-Project-Manager_REQ521867) | Posted Today |
+| **PCL Construction Enterprises Inc., Denver, Colo.†** | West Palm Beach, Fl | Project Engineer Civil Waste/Waterwaste | [Apply](https://careers.pcl.com/job/West-Palm-Beach-Project-Engineer-Civil-WasteWaterwaste-FL-33401/1441096700/) | Unknown |
 
 ---
 
