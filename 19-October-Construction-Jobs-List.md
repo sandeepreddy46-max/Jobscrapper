@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — October 19, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-19 23:27:10
+
+📊 **2 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+- HITT Contracting, Falls Church, Va.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Chicago, IL | Safety Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Chicago-IL/Safety-Engineer_R5025310) | Posted Today |
+| **HITT Contracting, Falls Church, Va.** | Los Angeles, CA | Assistant Project Manager | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Los-Angeles-CA/Assistant-Project-Manager_JR102979-1) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-19 19:08:52
 
 📊 **5 new construction jobs this batch:**
