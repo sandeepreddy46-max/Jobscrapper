@@ -1,6 +1,23 @@
 # 🏗️ Construction Entry-Level Jobs — October 21, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-21 22:13:48
+
+📊 **4 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+- McGough, Roseville, Minn.: 1 job
+- Swinerton Inc., Concord, Calif.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Richmond, VA | Project Engineer (Advanced Manufacturing) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Richmond-VA/Project-Engineer--Advanced-Manufacturing-_R5025353) | Posted Today |
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Field Engineer 1 (Union) | [Apply](https://jobs.jedunn.com/job/Omaha-Field-Engineer-1-%28Union%29-NE-68118/1442441400/) | Unknown |
+| **McGough, Roseville, Minn.** | MT Helena | Assistant Project Manager | [Apply](https://mcgough.wd504.myworkdayjobs.com/en-US/McGoughGlobalCareers/job/MT-Helena/Assistant-Project-Manager_R-1002534) | Posted Today |
+| **Swinerton Inc., Concord, Calif.** | Arvada CO | Drywall Assistant Superintendent | [Apply](https://swinerton.wd1.myworkdayjobs.com/en-US/Swinerton_External_Career/job/Arvada-CO/Drywall-Assistant-Superintendent_J18167) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-21 18:30:59
 
 📊 **9 new construction jobs this batch:**
