@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — October 22, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-22 18:26:05
+
+📊 **1 new construction jobs this batch:**
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **The Weitz Co., Des Moines, Iowa†** | Cedar Rapids, IA, US | Project Safety Engineer | [Apply](https://careers.weitz.com/job/cedar-rapids/project-safety-engineer/48937/102292374544) | 2026-10-22 |
+
+---
+
 ### 🕐 Batch at 2026-10-22 13:36:53
 
 📊 **1 new construction jobs this batch:**
