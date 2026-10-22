@@ -1,6 +1,18 @@
 # 🏗️ Construction Entry-Level Jobs — October 22, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-22 22:13:27
+
+📊 **2 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Charleston, SC | Project Scheduler | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Charleston-SC/Project-Scheduler_R5025380) | Posted Today |
+| **Clark Group, McLean, Va.** | Clark Kansas City Office | Project Scheduler | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Clark-Kansas-City-Office/Project-Scheduler_R5025379) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-22 18:26:05
 
 📊 **1 new construction jobs this batch:**
