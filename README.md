@@ -1,15 +1,16 @@
-# 🏗️ Construction Entry-Level Jobs — October 24, 2026
+# 🏗️ Construction Entry-Level Jobs — October 26, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-10-24 00:23:42
+### 🕐 Batch at 2026-10-26 09:53:51
 
 📊 **2 new construction jobs this batch:**
-- HITT Contracting, Falls Church, Va.: 2 jobs
+- Boeing: 1 job
+- MasTec Inc., Coral Gables, Fla.†: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **HITT Contracting, Falls Church, Va.** | New York, NY | Commercial Construction Assistant Project Manager - Healthcare | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/New-York-NY/Commercial-Construction-Assistant-Project-Manager---Healthcare_JR102996) | Posted Today |
-| **HITT Contracting, Falls Church, Va.** | Richmond, VA | Quality Control Associate | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Richmond-VA/Quality-Control-Associate_JR102997) | Posted Today |
+| **Boeing** | USA - Mesa, AZ | Entry Level or Associate Aerospace Safety Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Mesa-AZ/Entry-Level-or-Associate-Aerospace-Safety-Engineer_JR2026523589-2) | Posted Today |
+| **MasTec Inc., Coral Gables, Fla.†** | HH - Blue Bell, PA | Estimator II | [Apply](https://careers-mastec.icims.com/jobs/70740/login) | 2026-10-19T16:13:00+0000 |
 
 ---
 
