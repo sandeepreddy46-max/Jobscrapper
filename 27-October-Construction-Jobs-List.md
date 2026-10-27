@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — October 27, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-27 07:29:08
+
+📊 **1 new construction jobs this batch:**
+- Boeing: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - Oklahoma City, OK | AWACS Project Engineer (Mid-Level or Lead) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Oklahoma-City-OK/AWACS-Project-Engineer--Mid-Level-or-Lead-_JR2026516049) | Posted Yesterday |
+
+---
+
 ### 🕐 Batch at 2026-10-27 01:17:58
 
 📊 **3 new construction jobs this batch:**
