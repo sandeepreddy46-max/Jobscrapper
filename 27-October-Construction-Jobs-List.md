@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — October 27, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-10-27 23:38:19
+
+📊 **1 new construction jobs this batch:**
+- Amgen: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Amgen** | US - California - Thousand Oaks | Project Coordinator | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Project-Coordinator_R-259186) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-27 19:56:26
 
 📊 **6 new construction jobs this batch:**
