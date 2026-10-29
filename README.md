@@ -1,40 +1,18 @@
-# 🏗️ Construction Entry-Level Jobs — October 28, 2026
+# 🏗️ Construction Entry-Level Jobs — October 29, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-10-28 22:35:20
+### 🕐 Batch at 2026-10-29 02:14:23
 
-📊 **1 new construction jobs this batch:**
+📊 **3 new construction jobs this batch:**
+- Holder Construction Group, Atlanta, Ga.: 1 job
+- L3Harris Technologies: 1 job
 - Sundt Construction Inc., Tempe, Ariz.: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **Sundt Construction Inc., Tempe, Ariz.** | Box Springs, GA, United States | Field Coordinator | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11699/?utm_medium=jobshare) | 2026-10-28 |
-
----
-
-### 🕐 Batch at 2026-10-28 18:03:55
-
-📊 **3 new construction jobs this batch:**
-- Northrop Grumman: 1 job
-- Swinerton Inc., Concord, Calif.: 1 job
-- The Weitz Co., Des Moines, Iowa†: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **Northrop Grumman** | United States-Virginia-Dulles | Space Staff System Safety Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Space-Staff-System-Safety-Engineer_R10258054) | Posted Today |
-| **Swinerton Inc., Concord, Calif.** | Atlanta GA | Safety Engineer | [Apply](https://swinerton.wd1.myworkdayjobs.com/en-US/Swinerton_External_Career/job/Atlanta-GA/Safety-Engineer_J18188) | Posted Today |
-| **The Weitz Co., Des Moines, Iowa†** | Des Moines, IA, US | Project Engineer | [Apply](https://careers.weitz.com/job/des-moines/project-engineer/48937/102550458912) | 2026-10-28 |
-
----
-
-### 🕐 Batch at 2026-10-28 04:36:08
-
-📊 **1 new construction jobs this batch:**
-- Johnson Controls: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **Johnson Controls** | Seattle-Washington-United States of America | Fire Project Coordinator | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Seattle-Washington-United-States-of-America/Fire-Project-Coordinator_WD30282768) | Posted Today |
+| **Holder Construction Group, Atlanta, Ga.** | Shippingport, PA | Office Engineer - Entry Level | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4472151009) | 2026-10-28T21:57:59-04:00 |
+| **L3Harris Technologies** | Melbourne, FL, US | Associate, Field Engineering | [Apply](https://careers.l3harris.com/en/job/melbourne/associate-field-engineering/4832/102574793328) | 2026-10-29 |
+| **Sundt Construction Inc., Tempe, Ariz.** | Salt Lake City, UT, United States | Project Engineer - Heavy Industrial/Mining | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11705/?utm_medium=jobshare) | 2026-10-28 |
 
 ---
 
