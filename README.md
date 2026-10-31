@@ -1,20 +1,16 @@
-# 🏗️ Construction Entry-Level Jobs — October 30, 2026
+# 🏗️ Construction Entry-Level Jobs — October 31, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-10-30 20:32:10
+### 🕐 Batch at 2026-10-31 00:33:01
 
-📊 **5 new construction jobs this batch:**
-- Gilbane Building Co., Providence, R.I.†: 2 jobs
-- HITT Contracting, Falls Church, Va.: 1 job
-- Northrop Grumman: 2 jobs
+📊 **2 new construction jobs this batch:**
+- Anthropic: 1 job
+- AstraZeneca: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **Gilbane Building Co., Providence, R.I.†** | N/A | Field Engineer II | [Apply](https://careers-gilbaneco.icims.com/jobs/13723/field-engineer-ii/job?in_iframe=1) | 2024-10-30T20:31:03.699Z |
-| **Gilbane Building Co., Providence, R.I.†** | N/A | Field Engineer II | [Apply](https://careers-gilbaneco.icims.com/jobs/13721/field-engineer-ii/job?in_iframe=1) | 2024-10-30T20:31:04.052Z |
-| **HITT Contracting, Falls Church, Va.** | Santa Clara, CA | Safety Project Engineer | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Santa-Clara-CA/Safety-Project-Engineer_JR103016-1) | Posted Today |
-| **Northrop Grumman** | United States-California-Vandenberg AFB | Field Engineer 3 - Space AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Vandenberg-AFB/Field-Engineer-3---Space-AHT_R10258584-1) | Posted Today |
-| **Northrop Grumman** | United States-Hawaii-Honolulu | IT Infrastructure Field Engineer Level 5 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Hawaii-Honolulu/IT-Infrastructure-Field-Engineer-Level-5_R10258261) | Posted Today |
+| **Anthropic** | Remote-Friendly, United States | Field Engineer, Data Center Design and Engineering | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5466517008) | 2026-10-30T19:50:06-04:00 |
+| **AstraZeneca** | Frederick, Maryland, United States of America | Associate Quality Control/Specialist I Quality Control | [Apply](https://careers.astrazeneca.com/job/frederick/associate-quality-control-specialist-i-quality-control/7684/102653588352) | 2026-10-30 |
 
 ---
 
