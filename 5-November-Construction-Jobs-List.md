@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — November 05, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-05 19:50:39
+
+📊 **1 new construction jobs this batch:**
+- Swinerton Inc., Concord, Calif.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Swinerton Inc., Concord, Calif.** | Arvada CO | Scheduler | [Apply](https://swinerton.wd1.myworkdayjobs.com/en-US/Swinerton_External_Career/job/Arvada-CO/Scheduler_J18232) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-05 12:00:05
 
 📊 **4 new construction jobs this batch:**
