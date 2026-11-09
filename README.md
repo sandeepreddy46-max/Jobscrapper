@@ -1,25 +1,15 @@
-# 🏗️ Construction Entry-Level Jobs — November 07, 2026
+# 🏗️ Construction Entry-Level Jobs — November 09, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-11-07 08:30:36
+### 🕐 Batch at 2026-11-09 01:32:30
 
-📊 **1 new construction jobs this batch:**
-- JE Dunn Construction Co., Kansas City, Mo.: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2 - Commercial Construction | [Apply](https://jobs.jedunn.com/job/Minneapolis-Project-Engineer-2-Commercial-Construction-MN-55401/1438670400/) | Unknown |
-
----
-
-### 🕐 Batch at 2026-11-07 01:44:14
-
-📊 **1 new construction jobs this batch:**
-- Johnson Controls: 1 job
+📊 **2 new construction jobs this batch:**
+- Clayco, Chicago, Ill.: 2 jobs
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **Johnson Controls** | Cincinnati-Ohio-United States of America | Construction Project Coordinator | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Cincinnati-Ohio-United-States-of-America/Construction-Project-Coordinator_WD30283956) | Posted Today |
+| **Clayco, Chicago, Ill.** | Phoenix, AZ, United States | Project Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/ointqn15ge1euh3psw4r8nydyc) | 2026-11-09T00:18:54.42Z |
+| **Clayco, Chicago, Ill.** | Bridgeport, AL, United States | VDC Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/tfnpy1u554ms6szc6ta7emimuh) | 2026-11-08T23:15:46.87Z |
 
 ---
 
