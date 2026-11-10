@@ -1,6 +1,25 @@
 # 🏗️ Construction Entry-Level Jobs — November 10, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-10 20:22:09
+
+📊 **5 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+- Clayco, Chicago, Ill.: 1 job
+- HITT Contracting, Falls Church, Va.: 1 job
+- Northrop Grumman: 1 job
+- The Christman Co., Lansing, Mich.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Landover, MD | Project Engineer (Civil) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Landover-MD/Project-Engineer--Civil-_R5025635) | Posted Today |
+| **Clayco, Chicago, Ill.** | Chicago, IL, United States | Project Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/asr4nskqiwd5fx8o85y8xf1g9a) | 2026-11-10T15:56:41Z |
+| **HITT Contracting, Falls Church, Va.** | Culpeper, VA | Commercial Construction Assistant Project Manager - Government Mission Critical | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Culpeper-VA/Commercial-Construction-Assistant-Project-Manager---Government-Mission-Critical_JR103032) | Posted Today |
+| **Northrop Grumman** | United States-California-Sunnyvale | Industrial Engineer - Proposal Estimator | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Industrial-Engineer---Proposal-Estimator_R10259058) | Posted Today |
+| **The Christman Co., Lansing, Mich.** | Grand Rapids, MI | Project Engineer | [Apply](https://christmanco.wd108.myworkdayjobs.com/en-US/careers/job/Grand-Rapids-MI/Project-Engineer_R-100748) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-10 12:18:19
 
 📊 **1 new construction jobs this batch:**
