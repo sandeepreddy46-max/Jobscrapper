@@ -1,6 +1,28 @@
 # 🏗️ Construction Entry-Level Jobs — November 12, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-12 22:40:46
+
+📊 **8 new construction jobs this batch:**
+- Boeing: 1 job
+- Clark Group, McLean, Va.: 1 job
+- Johnson Controls: 1 job
+- Samsung Electronics: 1 job
+- The Weitz Co., Des Moines, Iowa†: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - Hazelwood, MO | Entry-Level Estimator | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Entry-Level-Estimator_JR2026529307-1) | Posted Today |
+| **Clark Group, McLean, Va.** | Fort Meade, MD | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Fort-Meade-MD/Project-Engineer_R5025035) | Posted Today |
+| **Johnson Controls** | Gilbert-Arizona-United States of America | Growth Project Coordinator | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Gilbert-Arizona-United-States-of-America/Growth-Project-Coordinator_WD30285139) | Posted Today |
+| **Samsung Electronics** | TX, TX | Field Safety Engineer | [Apply](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Field-Safety-Engineer_R122170?locations=e2e963279736101307c7218e23e80000&locations=189767dd6c92012d02b6bc83a529e178&locations=9679a39fc7361030509d856e0bf70000&locations=189767dd6c9201c7ec227985a529067b) | 2026-11-13 |
+| **The Weitz Co., Des Moines, Iowa†** | Council Hill, OK, US | Project Engineer (Electrical) - Data Center Construction | [Apply](https://careers.weitz.com/job/council-hill/project-engineer-electrical-data-center-construction/48937/103221407136) | 2026-11-12 |
+| **The Weitz Co., Des Moines, Iowa†** | San Marcos, TX, US | Project Engineer (Electrical) - Data Center Construction | [Apply](https://careers.weitz.com/job/san-marcos/project-engineer-electrical-data-center-construction/48937/103221407040) | 2026-11-12 |
+| **The Weitz Co., Des Moines, Iowa†** | Des Moines, IA, US | Project Engineer (Electrical) - Data Center Construction | [Apply](https://careers.weitz.com/job/des-moines/project-engineer-electrical-data-center-construction/48937/103221406864) | 2026-11-12 |
+| **The Weitz Co., Des Moines, Iowa†** | McLean, VA, US | Project Engineer (Electrical) - Data Center Construction | [Apply](https://careers.weitz.com/job/mclean/project-engineer-electrical-data-center-construction/48937/103221406672) | 2026-11-12 |
+
+---
+
 ### 🕐 Batch at 2026-11-12 16:49:03
 
 📊 **4 new construction jobs this batch:**
