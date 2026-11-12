@@ -1,6 +1,19 @@
 # 🏗️ Construction Entry-Level Jobs — November 12, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-12 08:04:02
+
+📊 **2 new construction jobs this batch:**
+- Boeing: 1 job
+- QTS Data Centers: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - El Segundo, CA | Quality Engineer  - Millennium Space Systems | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---El-Segundo-CA/Quality-Engineer----Millennium-Space-Systems_JR2026528552-1) | Posted Yesterday |
+| **QTS Data Centers** | US CO Denver 1 DC1, United States of America | Development Project Engineer (Data Center Construction OFCIR) | [Apply](https://qtsdatacenters.wd5.myworkdayjobs.com/QTS/job/US-CO-Denver-1-DC1/Development-Project-Engineer--Data-Center-Construction-OFCIR-_R2026-2453/apply) | 2026-11-09 |
+
+---
+
 ### 🕐 Batch at 2026-11-12 00:13:49
 
 📊 **12 new construction jobs this batch:**
