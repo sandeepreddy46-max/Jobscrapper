@@ -1,6 +1,22 @@
 # 🏗️ Construction Entry-Level Jobs — November 12, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-12 16:49:03
+
+📊 **4 new construction jobs this batch:**
+- Clayco, Chicago, Ill.: 2 jobs
+- Johnson Controls: 1 job
+- Skanska USA, New York, N.Y.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clayco, Chicago, Ill.** | Houston, TX, United States | Project Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/bbi1cga349axequzcsm3pbszte) | 2026-11-12T16:44:46Z |
+| **Clayco, Chicago, Ill.** | Dallas, TX, United States | Project Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/6g66i97uhb83jwc4jbx6aukamo) | 2026-11-12T16:42:23Z |
+| **Johnson Controls** | Charlotte-North Carolina-United States of America | Physical Security Project Coordinator | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Charlotte-North-Carolina-United-States-of-America/Physical-Security-Project-Coordinator_WD30284399) | Posted Today |
+| **Skanska USA, New York, N.Y.†** | Utah Project | Project Engineer | [Apply](https://careers-skanska.icims.com/jobs/10136/login) | 2026-11-12T16:01:00+0000 |
+
+---
+
 ### 🕐 Batch at 2026-11-12 08:04:02
 
 📊 **2 new construction jobs this batch:**
