@@ -48,8 +48,8 @@ CBRE,FAILED,0,0,Avature search page returned no job records
 "Choate Construction Co., Atlanta, Ga.",WORKING,0,0,
 Cisco,FAILED,0,0,Workday 422 at https://cisco.wd1.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs
 Citi,WORKING,0,0,
-"Clark Group, McLean, Va.",WORKING,9,1,
-"Clayco, Chicago, Ill.",WORKING,22,0,
+"Clark Group, McLean, Va.",WORKING,11,1,
+"Clayco, Chicago, Ill.",WORKING,22,2,
 "Clune Construction, Chicago, Ill.",WORKING,3,0,
 "Coastal Construction Group, Miami, Fla.†",FAILED,0,0,no supported ATS or structured JobPosting data discovered
 Coca-Cola,FAILED,0,0,no supported ATS or structured JobPosting data discovered
@@ -81,7 +81,7 @@ Exyte,WORKING,0,0,
 "F.A. Wilhelm Construction Co. Inc., Indianapolis, Ind.†",FAILED,0,0,no supported ATS or structured JobPosting data discovered
 FedEx,WORKING,0,0,
 "Ferreira Construction Co. Inc., Branchburg, N.J.†",FAILED,0,0,no supported ATS or structured JobPosting data discovered
-"Ferrovial Construction, Austin, Texas",FAILED,0,0,"HTTPSConnectionPool(host='careers.ferrovial.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.ferrovial.com', port=443) at 0x799a6cc49e90>, 'Connection to car"
+"Ferrovial Construction, Austin, Texas",FAILED,0,0,"HTTPSConnectionPool(host='careers.ferrovial.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.ferrovial.com', port=443) at 0x709a8daee790>, 'Connection to car"
 Firefly Aerospace,WORKING,0,0,
 First Solar,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 "FlatironDragados, Atlanta, Ga.†",FAILED,0,0,"HTTPSConnectionPool(host='careers.flatironcorp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='careers.flatironcorp.com', port=443): Failed to resolve 'careers.flat"
@@ -106,7 +106,7 @@ Google,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 Hewlett Packard Enterprise,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 "Hoar Construction, Birmingham, Ala.",FAILED,0,0,no supported ATS or structured JobPosting data discovered
 "Hoffman Construction Co., Lake Oswego, Ore.",FAILED,0,0,no supported ATS or structured JobPosting data discovered
-"Holder Construction Group, Atlanta, Ga.",WORKING,49,1,
+"Holder Construction Group, Atlanta, Ga.",WORKING,44,0,
 Honeywell,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 Hyundai Motor Group,FAILED,0,0,"HTTPSConnectionPool(host='careers.hyundai.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='careers.hyundai.com', port=443): Failed to resolve 'careers.hyundai.com' ("
 IBM,FAILED,0,0,Workday 422 at https://ibm.wd12.myworkdayjobs.com/wday/cxs/ibm/External/jobs
@@ -134,7 +134,7 @@ Lucid Motors,FAILED,0,0,no supported ATS or structured JobPosting data discovere
 Marvell Technology,WORKING,0,0,
 "MasTec Inc., Coral Gables, Fla.†",WORKING,10,0,
 "McCarthy Holdings Inc., St. Louis, Mo.",WORKING,0,0,
-"McDermott International, Houston, Texas",FAILED,0,0,"HTTPSConnectionPool(host='careers.mcdermott.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.mcdermott.com', port=443) at 0x799a6d096a90>, 'Connection to car"
+"McDermott International, Houston, Texas",FAILED,0,0,"HTTPSConnectionPool(host='careers.mcdermott.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.mcdermott.com', port=443) at 0x709a8cb50f10>, 'Connection to car"
 McDonald’s,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 "McGough, Roseville, Minn.",WORKING,1,0,
 Mercedes-Benz,FAILED,0,0,public careers page blocked (403); direct source adapter needed
@@ -155,7 +155,7 @@ NVIDIA,WORKING,0,0,
 Netflix,FAILED,0,0,Workday 422 at https://netflix.wd5.myworkdayjobs.com/wday/cxs/netflix/Netflix_External_Site/jobs
 NextEra Energy,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 Nike,FAILED,0,0,Workday 404 at https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/Search/jobs
-Northrop Grumman,WORKING,8,1,
+Northrop Grumman,WORKING,8,0,
 Novartis,WORKING,0,0,
 "Okland Construction, Salt Lake City, Utah†",FAILED,0,0,no supported ATS or structured JobPosting data discovered
 OpenAI,WORKING,0,0,
@@ -199,15 +199,15 @@ ServiceNow,FAILED,0,0,Workday 422 at https://servicenow.wd5.myworkdayjobs.com/wd
 Siemens,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 Sierra Space,WORKING,0,0,
 "Skanska USA, New York, N.Y.†",WORKING,16,0,
-SpaceX,WORKING,20,0,
+SpaceX,WORKING,24,4,
 Starbucks,FAILED,0,0,Workday 422 at https://starbucks.wd5.myworkdayjobs.com/wday/cxs/starbucks/starbucks/jobs
 Stellantis,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 "Suffolk Construction Co. Inc., Boston, Mass.†",WORKING,0,0,
-"Sundt Construction Inc., Tempe, Ariz.",WORKING,34,0,
+"Sundt Construction Inc., Tempe, Ariz.",WORKING,37,3,
 "Swinerton Inc., Concord, Calif.",WORKING,2,0,
 Switch,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 "T5 Construction, Atlanta, Ga.",WORKING,0,0,
-TSMC,WORKING,0,0,
+TSMC,FAILED,0,0,403 Client Error: Forbidden for url: https://careers.tsmc.com/en_US/careers/SearchJobs/?147=5709
 Target,WORKING,0,0,
 Tesla,FAILED,0,0,public careers page blocked (403); direct source adapter needed
 Texas Instruments,WORKING,1,0,
@@ -216,7 +216,7 @@ Texas Instruments,WORKING,1,0,
 "The Conlan Company, Marietta, Ga.",FAILED,0,0,404 Client Error: Not Found for url: https://conlancompany.com/careers/
 "The PENTA Building Group, Henderson, Nev.†",FAILED,0,0,no supported ATS or structured JobPosting data discovered
 "The Walsh Group, Chicago, Ill.",BROWSER_ONLY,0,0,verified source requires browser/session or blocks GitHub Actions HTTP
-"The Weitz Co., Des Moines, Iowa†",WORKING,1,0,
+"The Weitz Co., Des Moines, Iowa†",WORKING,2,2,
 "The Whiting-Turner Contracting Co., Baltimore, Md.",WORKING,1,0,
 "The Yates Cos. Inc., Philadelphia, Miss.",FAILED,0,0,no supported ATS or structured JobPosting data discovered
 Thermo Fisher Scientific,FAILED,0,0,no supported ATS or structured JobPosting data discovered
@@ -224,7 +224,7 @@ Tokyo Electron,FAILED,0,0,Workday 404 at https://tel.wd3.myworkdayjobs.com/wday/
 Toyota,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 "Turner Construction Co., New York City, N.Y.†",FAILED,0,0,401 Client Error: Unauthorized for url: https://us.api.csod.com/rec-job-search/external/jobs
 "Turner Industries Group LLC, Baton Rouge, La.†",FAILED,0,0,no supported ATS or structured JobPosting data discovered
-"Tutor Perini Corp., Sylmar, Calif.†",FAILED,0,0,"HTTPSConnectionPool(host='careers.tutorperini.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.tutorperini.com', port=443) at 0x799a6dba7690>, 'Connection to"
+"Tutor Perini Corp., Sylmar, Calif.†",FAILED,0,0,"HTTPSConnectionPool(host='careers.tutorperini.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.tutorperini.com', port=443) at 0x709a8d2ae2d0>, 'Connection to"
 UPS,FAILED,0,0,no supported ATS or structured JobPosting data discovered
 Uber,FAILED,0,0,public careers page blocked (406); direct source adapter needed
 Unilever,WORKING,0,0,

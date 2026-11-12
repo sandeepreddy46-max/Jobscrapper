@@ -1,31 +1,29 @@
-# 🏗️ Construction Entry-Level Jobs — November 11, 2026
+# 🏗️ Construction Entry-Level Jobs — November 12, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-11-11 17:05:32
+### 🕐 Batch at 2026-11-12 00:13:49
 
-📊 **3 new construction jobs this batch:**
+📊 **12 new construction jobs this batch:**
 - Clark Group, McLean, Va.: 1 job
-- Holder Construction Group, Atlanta, Ga.: 1 job
-- Northrop Grumman: 1 job
+- Clayco, Chicago, Ill.: 2 jobs
+- SpaceX: 4 jobs
+- Sundt Construction Inc., Tempe, Ariz.: 3 jobs
+- The Weitz Co., Des Moines, Iowa†: 2 jobs
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **Clark Group, McLean, Va.** | San Antonio, TX | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/San-Antonio-TX/Project-Engineer_R5025662) | Posted Today |
-| **Holder Construction Group, Atlanta, Ga.** | Franklin Furnace, OH | Assistant Field Engineer (Hourly) | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4503368009) | 2026-11-11T11:10:03-05:00 |
-| **Northrop Grumman** | United States-Mississippi-Ocean Springs | 2027 Associate Structural Engineer - Ocean Springs MS | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Associate-Structural-Engineer---Ocean-Springs-MS_R10260175) | Posted Today |
-
----
-
-### 🕐 Batch at 2026-11-11 09:00:31
-
-📊 **3 new construction jobs this batch:**
-- Clayco, Chicago, Ill.: 3 jobs
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
-|---|---|---|---|---|
-| **Clayco, Chicago, Ill.** | St. Louis, MO, United States | Assistant Superintendent | [Apply](https://jobs.crelate.com/portal/clayco/job/u5q6p5w775dwqm7jf4sm1q1d8c) | 2026-11-11T02:05:02Z |
-| **Clayco, Chicago, Ill.** | Cleveland, OH, United States | Project Cost Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/x64it4yrd69udo8pmo5cyu7awh) | 2026-11-11T02:35:48.55Z |
-| **Clayco, Chicago, Ill.** | Abilene, TX, United States | Project Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/fc1ss4b1b7oeh6eoue75jwee7c) | 2026-11-11T02:42:57.9Z |
+| **Clark Group, McLean, Va.** | Haskell, TX | Quality Control Inspector | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Haskell-TX/Quality-Control-Inspector_R5025663) | Posted Today |
+| **Clayco, Chicago, Ill.** | Albuquerque, NM, United States | Project Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/x3pwc149k5gesjgwm8td761k3c) | 2026-11-11T19:17:50Z |
+| **Clayco, Chicago, Ill.** | Santa Teresa, NM, United States | Project Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/rjjirtzo9b6mma9tepdx9ft41e) | 2026-11-11T19:13:24Z |
+| **SpaceX** | Starbase, TX | Civil Engineer, Site Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8938131002?gh_jid=8938131002) | 2026-11-11T13:17:04-05:00 |
+| **SpaceX** | Bastrop, TX | Civil Engineer, Site Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8938174002?gh_jid=8938174002) | 2026-11-11T13:17:05-05:00 |
+| **SpaceX** | Cape Canaveral, FL | Civil Engineer, Site Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8938178002?gh_jid=8938178002) | 2026-11-11T13:17:05-05:00 |
+| **SpaceX** | College Station, TX | Civil Engineer, Site Development | [Apply](https://boards.greenhouse.io/spacex/jobs/8938191002?gh_jid=8938191002) | 2026-11-11T13:17:05-05:00 |
+| **Sundt Construction Inc., Tempe, Ariz.** | Tampa, FL, United States | Project Controls Engineer | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11858/?utm_medium=jobshare) | 2026-11-11 |
+| **Sundt Construction Inc., Tempe, Ariz.** | Patagonia, AZ, United States | Project Engineer I - Heavy Industrial & Mining | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11864/?utm_medium=jobshare) | 2026-11-11 |
+| **Sundt Construction Inc., Tempe, Ariz.** | Patagonia, AZ, United States | Project Engineer I - Piping | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11862/?utm_medium=jobshare) | 2026-11-11 |
+| **The Weitz Co., Des Moines, Iowa†** | Boydton, VA, US | Project Engineer (Electrical) - Data Center Construction | [Apply](https://careers.weitz.com/job/boydton/project-engineer-electrical-data-center-construction/48937/103170437040) | 2026-11-11 |
+| **The Weitz Co., Des Moines, Iowa†** | Cedar Rapids, IA, US | Project Safety Engineer | [Apply](https://careers.weitz.com/job/cedar-rapids/project-safety-engineer/48937/103170437184) | 2026-11-11 |
 
 ---
 
