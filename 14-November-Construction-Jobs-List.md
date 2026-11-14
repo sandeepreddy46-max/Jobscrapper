@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — November 14, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-14 14:53:08
+
+📊 **1 new construction jobs this batch:**
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Field Engineer 2, Industrial & Manufacturing | [Apply](https://jobs.jedunn.com/job/Brownsville-Field-Engineer-2%2C-Industrial-&-Manufacturing-TX-78520/1441043900/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-11-14 00:47:04
 
 📊 **4 new construction jobs this batch:**
