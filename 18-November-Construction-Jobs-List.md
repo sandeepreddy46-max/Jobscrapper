@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — November 18, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-18 09:52:40
+
+📊 **1 new construction jobs this batch:**
+- JE Dunn Construction Co., Kansas City, Mo.: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **JE Dunn Construction Co., Kansas City, Mo.** | N/A | Project Engineer 2, Self Perform Concrete, Advanced Facilities Group | [Apply](https://jobs.jedunn.com/job/Atlanta-Project-Engineer-2%2C-Self-Perform-Concrete%2C-Advanced-Facilities-Group-GA-30339/1432250400/) | Unknown |
+
+---
+
 ### 🕐 Batch at 2026-11-18 01:32:32
 
 📊 **2 new construction jobs this batch:**
