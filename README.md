@@ -1,6 +1,27 @@
 # 🏗️ Construction Entry-Level Jobs — November 19, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-19 08:40:44
+
+📊 **9 new construction jobs this batch:**
+- Adolfson & Peterson Construction, Minneapolis, Minn.†: 1 job
+- Clark Group, McLean, Va.: 5 jobs
+- Clayco, Chicago, Ill.: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Adolfson & Peterson Construction, Minneapolis, Minn.†** | Alexandria, LA | Assistant Project Manager | [Apply](https://ap.wd12.myworkdayjobs.com/en-US/AP_Careers/job/Alexandria-LA/Assistant-Project-Manager_JR100740) | Posted 30+ Days Ago |
+| **Clark Group, McLean, Va.** | El Paso, TX | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/El-Paso-TX/Project-Engineer_R5025745) | Posted 2 Days Ago |
+| **Clark Group, McLean, Va.** | El Paso, TX | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/El-Paso-TX/Project-Engineer_R5025744) | Posted 2 Days Ago |
+| **Clark Group, McLean, Va.** | San Francisco, CA | Project Engineer (Civil) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/San-Francisco-CA/Project-Engineer--Civil-_R5025741) | Posted 2 Days Ago |
+| **Clark Group, McLean, Va.** | Haskell, TX | Quality Control Inspector | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Haskell-TX/Quality-Control-Inspector_R5025749) | Posted Yesterday |
+| **Clark Group, McLean, Va.** | Chicago, IL | VDC Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Chicago-IL/VDC-Project-Engineer_R5025762) | Posted Yesterday |
+| **Clayco, Chicago, Ill.** | Hobart, IN, United States | Project Cost Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/czkqjf7mydxn18c583njjpz1wo) | 2026-11-19T03:29:47Z |
+| **Clayco, Chicago, Ill.** | South Bend, IN, United States | Project Cost Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/eatni6ofryhx5444andzkr5f6c) | 2026-11-19T03:28:22Z |
+| **Clayco, Chicago, Ill.** | El Paso, TX, United States | VDC Engineer | [Apply](https://jobs.crelate.com/portal/clayco/job/6epetmxmn9dxfp8n4rmb7yassw) | 2026-11-19T03:36:46Z |
+
+---
+
 ### 🕐 Batch at 2026-11-19 01:01:39
 
 📊 **3 new construction jobs this batch:**
