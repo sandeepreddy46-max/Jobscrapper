@@ -1,6 +1,21 @@
 # 🏗️ Construction Entry-Level Jobs — November 19, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-19 18:02:41
+
+📊 **3 new construction jobs this batch:**
+- Clark Group, McLean, Va.: 1 job
+- Gilbane Building Co., Providence, R.I.†: 1 job
+- The Weitz Co., Des Moines, Iowa†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Clark Group, McLean, Va.** | Washington, DC | Field Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Washington-DC/Field-Engineer_R5019716) | Posted Today |
+| **Gilbane Building Co., Providence, R.I.†** | N/A | Field Engineer II | [Apply](https://careers-gilbaneco.icims.com/jobs/14098/field-engineer-ii/job?in_iframe=1) | 2024-11-19T18:01:28.844Z |
+| **The Weitz Co., Des Moines, Iowa†** | Des Moines, IA, US | Project Engineer I | [Apply](https://careers.weitz.com/job/des-moines/project-engineer-i/48937/103520015568) | 2026-11-19 |
+
+---
+
 ### 🕐 Batch at 2026-11-19 08:40:44
 
 📊 **9 new construction jobs this batch:**
