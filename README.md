@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — November 21, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-21 14:34:16
+
+📊 **1 new construction jobs this batch:**
+- Adolfson & Peterson Construction, Minneapolis, Minn.†: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Adolfson & Peterson Construction, Minneapolis, Minn.†** | Colorado Springs, CO | Assistant Project Manager | [Apply](https://ap.wd12.myworkdayjobs.com/en-US/AP_Careers/job/Colorado-Springs-CO/Assistant-Project-Manager_JR100782) | Posted 16 Days Ago |
+
+---
+
 ### 🕐 Batch at 2026-11-21 06:02:06
 
 📊 **1 new construction jobs this batch:**
