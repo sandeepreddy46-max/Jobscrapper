@@ -1,14 +1,18 @@
-# 🏗️ Construction Entry-Level Jobs — November 22, 2026
+# 🏗️ Construction Entry-Level Jobs — November 24, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-11-22 16:05:46
+### 🕐 Batch at 2026-11-24 02:04:08
 
-📊 **1 new construction jobs this batch:**
-- Clune Construction, Chicago, Ill.: 1 job
+📊 **3 new construction jobs this batch:**
+- HITT Contracting, Falls Church, Va.: 1 job
+- Holder Construction Group, Atlanta, Ga.: 1 job
+- Sundt Construction Inc., Tempe, Ariz.: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **Clune Construction, Chicago, Ill.** | Vienna, VA | Assistant Project Manager | [Apply](https://clunegc.wd12.myworkdayjobs.com/en-US/CluneGC/job/Vienna-VA/Assistant-Project-Manager_JR101564) | Posted 2 Days Ago |
+| **HITT Contracting, Falls Church, Va.** | Seattle, WA | Commercial Construction Assistant Project Manager - Corporate Interiors | [Apply](https://hitt.wd503.myworkdayjobs.com/en-US/HITT/job/Seattle-WA/Commercial-Construction-Assistant-Project-Manager---Corporate-Interiors_JR103062) | Posted Today |
+| **Holder Construction Group, Atlanta, Ga.** | Washington DC | Office Engineer - Preconstruction | [Apply](https://job-boards.greenhouse.io/holderconstruction/jobs/4518878009) | 2026-11-23T11:20:04-05:00 |
+| **Sundt Construction Inc., Tempe, Ariz.** | Lockhart, TX, United States | Project Engineer II | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11952/?utm_medium=jobshare) | 2026-11-23 |
 
 ---
 
