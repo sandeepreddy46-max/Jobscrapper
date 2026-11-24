@@ -1,6 +1,17 @@
 # 🏗️ Construction Entry-Level Jobs — November 24, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
+### 🕐 Batch at 2026-11-24 13:24:43
+
+📊 **1 new construction jobs this batch:**
+- Johnson Controls: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Johnson Controls** | Livermore-California-United States of America | Project Coordinator 1 | [Apply](https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Livermore-California-United-States-of-America/Project-Coordinator-1_WD30283855) | Posted 4 Days Ago |
+
+---
+
 ### 🕐 Batch at 2026-11-24 02:04:08
 
 📊 **3 new construction jobs this batch:**
