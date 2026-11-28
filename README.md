@@ -1,15 +1,14 @@
-# 🏗️ Construction Entry-Level Jobs — November 27, 2026
+# 🏗️ Construction Entry-Level Jobs — November 28, 2026
 > Updated every hour. Newest detected batch first. US construction/civil roles; explicit required minimum experience above 2 years is rejected.
 
-### 🕐 Batch at 2026-11-27 13:43:45
+### 🕐 Batch at 2026-11-28 04:36:54
 
-📊 **2 new construction jobs this batch:**
-- Clark Group, McLean, Va.: 2 jobs
+📊 **1 new construction jobs this batch:**
+- Swinerton Inc., Concord, Calif.: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **Clark Group, McLean, Va.** | McLean, VA | Estimator (Water/Wastewater) | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/McLean-VA/Estimator--Water-Wastewater-_R5023777) | Posted 2 Days Ago |
-| **Clark Group, McLean, Va.** | Fort Meade, MD | Project Engineer | [Apply](https://clark.wd503.myworkdayjobs.com/en-US/ClarkExternal/job/Fort-Meade-MD/Project-Engineer_R5025818) | Posted 2 Days Ago |
+| **Swinerton Inc., Concord, Calif.** | Dallas TX | Project Engineer | [Apply](https://swinerton.wd1.myworkdayjobs.com/en-US/Swinerton_External_Career/job/Dallas-TX/Project-Engineer_J18292) | Posted 3 Days Ago |
 
 ---
 
